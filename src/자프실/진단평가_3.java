@@ -48,7 +48,7 @@ public class 진단평가_3 {
 			ac.withdraw(sc.nextInt());
 			break;
 		case 3:
-			System.out.println(ac.name+"님의 최종 잔액은 "+ac.balance+"입니다");
+			System.out.println(ac.name+" 님의 최종 잔액은 "+ac.balance+"입니다");
 		}
 		
 		sc.close();

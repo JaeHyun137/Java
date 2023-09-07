@@ -23,6 +23,7 @@ class Student{   //퍼블릭 클래스 하나만. 클래스안에 클래스 넣ㅈ말기
 	}
 	public void setName(String name) {
 		this.name = name;
+		
 	}
 	
 	public String toString() {

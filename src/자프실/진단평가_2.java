@@ -10,6 +10,7 @@ class Calc{ //퍼블릭 아니라도 객체 생성 가능 - 이거 관련해서 헷갈려서 정리한거 �
 	
 	}
 	public String sum(int x,int y,int z) {
+		
 		return x+"+"+y+"+"+z+" = "+ (x+y+z) ;     //매개변수가 꼭 클래스의 멤버로 정의되어있지 않아도 됨
 	}
 }

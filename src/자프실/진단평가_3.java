@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Account{
 	String name;
-	int balance=0;
+	int balance =0;
 	public void withdraw(int amount) {
 		if(balance<=0) {
 			

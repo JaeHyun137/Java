@@ -9,6 +9,7 @@ class Account{
 			
 			System.out.println("ÀÜ¾× ºÎÁ·");
 		}
+		
 		else {
 			
 			balance -= amount;

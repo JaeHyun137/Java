@@ -2,7 +2,7 @@ package 자프실;
 
 import java.util.Scanner;
 
-class Student{  //퍼블릭 클래스 하나만. 클래스안에 클래스 넣ㅈ말기
+class Student{   //퍼블릭 클래스 하나만. 클래스안에 클래스 넣ㅈ말기
 	int rollno,age;
 	String name;
 	public int getRollno() {
